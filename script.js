@@ -20,10 +20,10 @@ function generate(elem) {
   }
   function noPicture(e) {
 
-    this.src = "/assets/pictures/403.png"
+    this.src = "./assets/pictures/403.png"
 
   }
-  
+
   generate()
   button.addEventListener("click", (e)=> {
     generate()
