@@ -6,4 +6,4 @@ random quote
 using async-await
 responsive
 
-[Go random quote]([https://anthxnyd.github.io/Calculatrice/](https://anthxnyd.github.io/random-quote-using-async-await/))
+[Go random quote](https://anthxnyd.github.io/random-quote-using-async-await/)
