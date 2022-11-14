@@ -13,10 +13,10 @@ body {
 }
 
 main {
+  height: auto;
   background-color: #F5F5F5;
   border: solid 5px #D3E0EA;
   width: 60%;
-  height: 450px;
   border-radius: 50px;
   margin: auto;
   display: flex;
@@ -81,4 +81,4 @@ main {
   #author {
     font-size: 20px;
   }
-}/*# sourceMappingURL=style.css.map */
+}
